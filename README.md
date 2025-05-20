@@ -36,8 +36,6 @@ An **additional section** handles **fractional matrix division using structures*
 
 ---
 
-## 📂 Project Structure
-
 ### Main Matrix Program
 
 - Takes dimensions and inputs for two matrices  
@@ -78,16 +76,9 @@ An **additional section** handles **fractional matrix division using structures*
 
 - **Talal Ali**  
 - **Daniyal Ahmed**  
+- **Muhammad Hammad**
 
----
-
-## 🎓 Course
-
-**Computer Organization and Assembly Language**  
-Instructor: *(Add your instructor's name here if needed)*  
-University: *(Add your institution name here if needed)*  
-
----
+  ---
 
 ## 📌 Notes
 
